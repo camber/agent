@@ -1,0 +1,20 @@
+{
+  "name": "camber-agent",
+  "version": "0.0.1",
+  "description": "User agent string parser",
+  "homepage": "https://github.com/camber/agent",
+  "author": "Casey O'Hara <casey@camber.io> (http://camber.io)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/camber/agent"
+  },
+  "main": "./agent",
+  "devDependencies": {
+    "mocha": "~1.13.0",
+    "should": "~1.3.0"
+  },
+  "scripts": {
+    "test": "make test"
+  }
+}
+
